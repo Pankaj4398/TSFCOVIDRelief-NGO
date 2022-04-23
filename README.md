@@ -1,5 +1,6 @@
-TSF-Payment-Gateway-Integration-Responsive-Website
-Definition : Website for desktop and mobile where payment gateway is integrated. On clicking the donate button, the user will land on the payment page where user can select the amount to be paid and the payment type, e.g. credit card, Paypal, etc. Once the payment is done and invoice will be generated and email will be sent to the user for the payment received.
+# TSF-Payment-Gateway-Integration-Responsive-Website
+ <p>Definition : Website for desktop and mobile where payment gateway is integrated. On clicking the donate button, the user will land on the payment page where user can select the amount to be paid and the payment type, e.g. credit card, Paypal, etc. Once the payment is done and invoice will be generated and email will be sent to the user for the payment received.</p>
+
 
 Tools : VS Code, PicsArt
 
