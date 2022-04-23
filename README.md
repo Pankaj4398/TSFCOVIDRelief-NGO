@@ -7,7 +7,7 @@
 
 GitHub Link 🔗 :
 
-https://github.com/PatelNeet/TSF-Payment-Gateway-Integration-Responsive-Website
+https://github.com/Pankaj4398/TSFCOVIDRelief-NGO/
 
 Youtube Link 🔗 :
 
@@ -15,4 +15,4 @@ https://www.youtube.com/watch?v=WDLHIxTaZHI
 
 Website Link 🔗 :
 
-https://tsfngo-by-neetpatel.000webhostapp.com/
+https://pankaj4398.github.io/TSFCOVIDRelief-NGO/
