@@ -24,14 +24,14 @@ https://pankaj4398.github.io/TSFCOVIDRelief-NGO/
 
 
 ## 1. Homepage
-![Homepage](TSFCOVIDRelief-NGO/screenshots/1.png)
+![Homepage](./screenshots/1.png)
 ## 2. Donation Page
-![Payment Details](TSFCOVIDRelief-NGO/screenshots/2.png)
+![Payment Details](./screenshots/2.png)
 ## 3. Payment Page
-![Login Details](TSFCOVIDRelief-NGO/screenshots/3.png)
+![Login Details](./screenshots/3.png)
 
 ## 4. Transaction Successfull
-![Transaction Successful](TSFCOVIDRelief-NGO/screenshots/4.png)
+![Transaction Successful](./screenshots/4.png)
 
 ## 5.Invoice Emailed
-![Invoice Emailed ](TSFCOVIDRelief-NGO/screenshots/5.png)
+![Invoice Emailed ](./screenshots/5.png)
